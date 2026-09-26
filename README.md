@@ -6,8 +6,6 @@ A custom animated desktop pet inspired by Johnny Silverhand from **Cyberpunk 207
 
 ## Preview
 
-[Watch the screen-recorded demo with music](media/demo.mp4)
-
 ![Working animation: laptop and cigarette](media/working.gif)
 
 While Codex is working, Johnny holds a small laptop and smokes a cigarette. The pet includes nine standard animation states and sixteen look directions.
@@ -24,7 +22,6 @@ The package uses `spriteVersionNumber: 2`, an 8 × 11 atlas, 192 × 208 pixel ce
 ## Files
 
 - `pet/`: installable pet definition and spritesheet.
-- `media/demo.mp4`: 15.7-second screen recording, with background music.
 - `media/working.gif`: working-state animation.
 - `media/spritesheet-preview.png`: overview of the animations and look directions.
 - `references/`: generated canonical character, cardinal look references, and working poses used during production.
@@ -33,8 +30,6 @@ The package uses `spriteVersionNumber: 2`, an 8 × 11 atlas, 192 × 208 pixel ce
 
 - Character inspiration: Johnny Silverhand, **Cyberpunk 2077**, CD PROJEKT RED.
 - Generated character art and sprite poses: created through the Codex image-generation workflow.
-- Screen recording: Alperen Gönük.
-- Demo music: **“The Rebel Path” — P.T. Adamczyk**, from the official Cyberpunk 2077 bonus-content soundtrack. The demo uses a short excerpt from 00:30, with volume normalization and fades. This is the official album version, not a separately sourced cello arrangement. The standalone music file is not included.
 - Official character references consulted: [Cyberpunk 2077 cosplay guides](https://www.cyberpunk.net/en/cosplay-guides) and the [Ultimate Edition booklet](https://cdn-s-cyberpunk.cdprojektred.com/CP2077-UE-Booklet-EN-1.pdf).
 - [CD PROJEKT RED Fan Content Guidelines](https://www.cdprojektred.com/en/fan-content).
 
