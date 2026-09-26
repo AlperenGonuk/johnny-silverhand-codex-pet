@@ -1,5 +1,7 @@
 # Johnny Silverhand Codex Pet
 
+2023: Nuked Arasaka Tower. 2026: Opening pull requests for Codex. Even rockerboys have bills to pay. 🤘
+
 A custom animated desktop pet inspired by Johnny Silverhand from **Cyberpunk 2077**, created with Codex and AI-generated character artwork.
 
 **This is an unofficial fan work and is not approved or endorsed by CD PROJEKT RED or OpenAI.**
